@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540607605 source:/home/ahmad/Desktop/CodeBlocks/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<signal.h>
+	<strings.h>
+
